@@ -1,3 +1,5 @@
 def solution(sentence)
     sentence.split.reverse.join(" ")
+    puts sentence
 end
+solution("hello world")
