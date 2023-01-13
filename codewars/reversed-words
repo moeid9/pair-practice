@@ -1,5 +1,9 @@
 def solution(sentence)
     sentence.split.reverse.join(" ")
+<<<<<<< HEAD
     puts sentence
 end
 solution("hello world")
+=======
+end
+>>>>>>> cdef56b9566af2518d969b4e1f71db806a9232ad
